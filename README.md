@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a retro-style portfolio page, using html, css and vanilla javascript.<br><br>I'm currently trying to relearn all of what I currently know to deepen my understanding and to build a better structure of what I already know<br><br>If there are anything you wanna question me about, shoot me a dm!<br>
+I'm currently working on a retro-style portfolio page, using html, css and vanilla javascript.<br><br>I'm currently trying to relearn all of what I currently know to deepen my understanding and to build a better structure of what I already know.<br><br>If there are anything you wanna question me about, shoot me a dm!<br><br>Sorry for the low amount of repo activities, I work on private repo's / outside of github<br>
 
 
 ## 🌐 Socials:
